@@ -1,0 +1,25 @@
+﻿{
+  "members": [
+    {
+      "firstName": "Marsya",
+      "lastName": "Rayani",
+      "gender": "female",
+      "age": 28,
+      "nim": "1302213003"
+    },
+    {
+      "firstName": "Hilmi",
+      "lastName": "Fauiyyah",
+      "gender": "female",
+      "age": 32,
+      "nim": "1302210081"
+    },
+    {
+      "firstName": "ibrahim",
+      "lastName": "mulyo",
+      "gender": "male",
+      "age": 24,
+      "nim": "1302210022"
+    }
+  ]
+}
