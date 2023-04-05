@@ -1,0 +1,15 @@
+{
+   "firstName": "Marsya",
+   "lastName": "rh",
+   "gender": "Female",
+   "age": 19,
+   "address": {
+       "streetAddress": "Buah Batu",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2C5", "name": "UX" }
+   ]
+}
