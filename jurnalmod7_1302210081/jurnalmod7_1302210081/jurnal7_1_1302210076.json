@@ -1,0 +1,37 @@
+{
+   "firstName": "Ridwan",
+   "lastName": "Nur Rahman",
+   "gender": "male",
+   "age": 22,
+   "address": {
+       "streetAddress": "Sukamiskin",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+  "courses": [
+    {
+      "code": "CRI2C4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+			"code": "CRJ2G3",
+			"name": "Dasar Jaringan Komputer"
+		},
+		{
+			"code": "CRI2E4",
+			"name": "Basis Data"
+		},
+		{
+			"code": "CRI2F2",
+			"name": "Proyek Tingkat 2"
+		},
+		{
+			"code": "CII2B4",
+			"name": "Struktur Data"
+		},
+		{
+			"code": "CRJ2A3",
+			"name": "Penjaminan Mutu Perangkat Lunak"
+		}
+  ]
+}
