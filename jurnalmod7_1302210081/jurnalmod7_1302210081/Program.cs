@@ -6,5 +6,8 @@ internal class Program
     {
         DataMahasiswa1302210081 Hilmi = new DataMahasiswa1302210081();
         Hilmi.ReadJSON();
+
+        no2 fauziyyah = new no2();
+        fauziyyah.ReadJSON();
     }
 }
