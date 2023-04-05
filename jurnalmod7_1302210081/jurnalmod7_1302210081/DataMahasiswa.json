@@ -1,0 +1,21 @@
+﻿{
+  "firstName": "Himi",
+  "lastName": "Fauziyyah",
+  "gender": "female",
+  "age": 18,
+  "address": {
+    "streetAddress": "Ciparay",
+    "city": "Bandung",
+    "state": "West Java"
+  },
+  "courses": [
+    {
+      "code": "CRI2C4",
+      "name": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "code": "CRI2E4",
+      "name": "Basis Data"
+    }
+  ]
+}
