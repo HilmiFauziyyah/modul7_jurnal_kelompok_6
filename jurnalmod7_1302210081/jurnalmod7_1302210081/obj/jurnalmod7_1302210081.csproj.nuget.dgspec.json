@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PRAKTIKAN\\Documents\\modul7_jurnal_kelompok_6\\jurnalmod7_1302210081\\jurnalmod7_1302210081\\jurnalmod7_1302210081.csproj": {}
+    "C:\\Users\\PRAKTIKAN\\Downloads\\modul7_jurnal_kelompok_6\\jurnalmod7_1302210081\\jurnalmod7_1302210081\\jurnalmod7_1302210081.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PRAKTIKAN\\Documents\\modul7_jurnal_kelompok_6\\jurnalmod7_1302210081\\jurnalmod7_1302210081\\jurnalmod7_1302210081.csproj": {
+    "C:\\Users\\PRAKTIKAN\\Downloads\\modul7_jurnal_kelompok_6\\jurnalmod7_1302210081\\jurnalmod7_1302210081\\jurnalmod7_1302210081.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PRAKTIKAN\\Documents\\modul7_jurnal_kelompok_6\\jurnalmod7_1302210081\\jurnalmod7_1302210081\\jurnalmod7_1302210081.csproj",
+        "projectUniqueName": "C:\\Users\\PRAKTIKAN\\Downloads\\modul7_jurnal_kelompok_6\\jurnalmod7_1302210081\\jurnalmod7_1302210081\\jurnalmod7_1302210081.csproj",
         "projectName": "jurnalmod7_1302210081",
-        "projectPath": "C:\\Users\\PRAKTIKAN\\Documents\\modul7_jurnal_kelompok_6\\jurnalmod7_1302210081\\jurnalmod7_1302210081\\jurnalmod7_1302210081.csproj",
+        "projectPath": "C:\\Users\\PRAKTIKAN\\Downloads\\modul7_jurnal_kelompok_6\\jurnalmod7_1302210081\\jurnalmod7_1302210081\\jurnalmod7_1302210081.csproj",
         "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PRAKTIKAN\\Documents\\modul7_jurnal_kelompok_6\\jurnalmod7_1302210081\\jurnalmod7_1302210081\\obj\\",
+        "outputPath": "C:\\Users\\PRAKTIKAN\\Downloads\\modul7_jurnal_kelompok_6\\jurnalmod7_1302210081\\jurnalmod7_1302210081\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PRAKTIKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
